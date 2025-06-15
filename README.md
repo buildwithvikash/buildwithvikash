@@ -41,9 +41,9 @@
 ---
 
 ### 📫 Let's Connect
-- 🌐 **Portfolio**: [buildwithvikash.com](https://buildwithvikash.com) *(optional)*
-- 💼 **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- 📧 **Email**: [your.email@example.com](mailto:your.email@example.com)
+- 🌐 **Portfolio**: [buildwithvikash.com](https://buildwithvikash.com)
+- 💼 **LinkedIn**: [linkedin.com/in/vikash-kumar-54b464336](https://www.linkedin.com/in/vikash-kumar-54b464336/)
+- 📧 **Email**: [vk117037@gmail.com](mailto:vk117037@gmail.com)
 - 🐙 **GitHub**: [@buildwithvikash](https://github.com/buildwithvikash)
 
 ---

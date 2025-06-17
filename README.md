@@ -23,6 +23,7 @@
 **Backend:**
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)
 ![Express](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=fff)
+![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=fff)
 
 **DevOps & Cloud:**
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=fff)
